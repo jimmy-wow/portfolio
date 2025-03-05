@@ -61,26 +61,26 @@
     },
     {
         "name": "Microservice",
-        "icon": "/assets/images/skills/microservice.png"
+        "icon": "./assets/images/skills/microservice.png"
     },
     {
         "name": "MongoDB",
-        "icon": "/assets/images/skills/mongodb.png"
+        "icon": "./assets/images/skills/mongodb.png"
     },
     {
         "name": "MySQL",
-        "icon": "/assets/images/skills/mysql.png"
+        "icon": "./assets/images/skills/mysql.png"
     },
     {
         "name": "PostgreSQL",
-        "icon": "/assets/images/skills/postgresql.png"
+        "icon": "./assets/images/skills/postgresql.png"
     },
     {
         "name": "RabbitMQ",
-        "icon": "/assets/images/skills/rabbitmq.png"
+        "icon": "./assets/images/skills/rabbitmq.png"
     },
     {
         "name": "Redis",
-        "icon": "/assets/images/skills/redis.png"
+        "icon": "./assets/images/skills/redis.png"
     }
 ]
