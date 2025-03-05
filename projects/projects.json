@@ -1,0 +1,53 @@
+[
+  {
+    "name": "RevStar Consulting",
+    "desc": "Built the company's profile website from scratch using Python, Django, Django REST Framework, Typescript, ReactJS, Html5",
+    "image": "revstar",
+    "category": "python",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/notystack-android"
+    }
+  },
+  {
+    "name": "Cloud-Native Service",
+    "desc": "All in one Cloud-Native Software Development Service Which is key feature in RevStar Consulting",
+    "image": "revstar-cloudnative-service",
+    "category": "java",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/sppu-prep-android"
+    }
+  },
+  {
+    "name": "Real Estate Statistics",
+    "desc": "Released real-estate analysis platform based on FastAPI, VueJS and RestfulAPI deployed on GCP",
+    "image": "venturespace",
+    "category": "python",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/newsbox-android"
+    }
+  },
+  {
+    "name": "ETL DataPipeLine",
+    "desc": "Scheduled bots to scrape data from 3rd parties and eliminate redundant real estate data before forwarding to storage.",
+    "image": "venturespace-etl",
+    "category": "python",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/jigar-sable/weatherly-android"
+    }
+  },
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  }
+
+]

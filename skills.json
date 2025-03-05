@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Python",
+        "icon": "/assets/images/skills/python.png"
+    },
+    {
+        "name": "Javascript",
+        "icon": "/assets/images/skills/javascript.png"
+    },
+    {
+        "name": "TypeScript",
+        "icon": "/assets/images/skills/typescript.png"
+    },
+    {
+        "name": "Java",
+        "icon": "/assets/images/skills/Java.png"
+    },
+    {
+        "name": "ReactJS",
+        "icon": "/assets/images/skills/reactjs.png"
+    },
+    {
+        "name": "NodeJS",
+        "icon": "/assets/images/skills/nodejs.png"
+    },
+    {
+        "name": "ExpressJS",
+        "icon": "/assets/images/skills/expressjs.png"
+    },
+    {
+        "name": "Django",
+        "icon": "/assets/images/skills/django.png"
+    },
+    {
+        "name": "Flask",
+        "icon": "/assets/images/skills/flask.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "/assets/images/skills/aws.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "/assets/images/skills/docker.png"
+    },
+    {
+        "name": "Git",
+        "icon": "/assets/images/skills/git.png"
+    },
+    {
+        "name": "REST API",
+        "icon": "/assets/images/skills/restapi.png"
+    },
+    {
+        "name": "GraphQL",
+        "icon": "/assets/images/skills/graphql.png"
+    },
+    {
+        "name": "Html5",
+        "icon": "/assets/images/skills/html5.png"
+    },
+    {
+        "name": "Microservice",
+        "icon": "/assets/images/skills/microservice.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "/assets/images/skills/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "/assets/images/skills/mysql.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "/assets/images/skills/postgresql.png"
+    },
+    {
+        "name": "RabbitMQ",
+        "icon": "/assets/images/skills/rabbitmq.png"
+    },
+    {
+        "name": "Redis",
+        "icon": "/assets/images/skills/redis.png"
+    }
+]
