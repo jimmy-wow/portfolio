@@ -1,63 +1,63 @@
 [
     {
         "name": "Python",
-        "icon": "/assets/images/skills/python.png"
+        "icon": "./assets/images/skills/python.png"
     },
     {
         "name": "Javascript",
-        "icon": "/assets/images/skills/javascript.png"
+        "icon": "./assets/images/skills/javascript.png"
     },
     {
         "name": "TypeScript",
-        "icon": "/assets/images/skills/typescript.png"
+        "icon": "./assets/images/skills/typescript.png"
     },
     {
         "name": "Java",
-        "icon": "/assets/images/skills/Java.png"
+        "icon": "./assets/images/skills/Java.png"
     },
     {
         "name": "ReactJS",
-        "icon": "/assets/images/skills/reactjs.png"
+        "icon": "./assets/images/skills/reactjs.png"
     },
     {
         "name": "NodeJS",
-        "icon": "/assets/images/skills/nodejs.png"
+        "icon": "./assets/images/skills/nodejs.png"
     },
     {
         "name": "ExpressJS",
-        "icon": "/assets/images/skills/expressjs.png"
+        "icon": "./assets/images/skills/expressjs.png"
     },
     {
         "name": "Django",
-        "icon": "/assets/images/skills/django.png"
+        "icon": "./assets/images/skills/django.png"
     },
     {
         "name": "Flask",
-        "icon": "/assets/images/skills/flask.png"
+        "icon": "./assets/images/skills/flask.png"
     },
     {
         "name": "AWS",
-        "icon": "/assets/images/skills/aws.png"
+        "icon": "./assets/images/skills/aws.png"
     },
     {
         "name": "Docker",
-        "icon": "/assets/images/skills/docker.png"
+        "icon": "./assets/images/skills/docker.png"
     },
     {
         "name": "Git",
-        "icon": "/assets/images/skills/git.png"
+        "icon": "./assets/images/skills/git.png"
     },
     {
         "name": "REST API",
-        "icon": "/assets/images/skills/restapi.png"
+        "icon": "./assets/images/skills/restapi.png"
     },
     {
         "name": "GraphQL",
-        "icon": "/assets/images/skills/graphql.png"
+        "icon": "./assets/images/skills/graphql.png"
     },
     {
         "name": "Html5",
-        "icon": "/assets/images/skills/html5.png"
+        "icon": "./assets/images/skills/html5.png"
     },
     {
         "name": "Microservice",
